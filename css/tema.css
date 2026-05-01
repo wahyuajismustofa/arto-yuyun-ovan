@@ -720,9 +720,11 @@ section.top-cover .inner .details a.link:hover {
     transform: translate(-50%, -50%);
     width: calc(100% - 48px);
     height: calc(100% - 48px);
-    
     border: 2px solid var(--background-tertiary);
     border-radius: 40px;
+    background: url(https://ik.imagekit.io/mustofa/web/undangan-web/mempelai-11.webp?updatedAt=1752029358941);
+    background-size: cover;
+    background-position: center;
 }
 
 /* cover logo */
